@@ -130,7 +130,6 @@ body .tools-cont {
 .pencil-color-cont #red {
     background-color: red;
     width: 1rem;
-    border: 1px solid black;
 }
 
 .pencil-color-cont #blue {
